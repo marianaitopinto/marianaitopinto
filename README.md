@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Mariana! 👋
 
-<!--
-**marianaitopinto/marianaitopinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul>
+  <li>Estudante Web Full Stack pela Driven Education. 🖥</li>
+  <li>Engenheira migrando para o mundo da programação. 🎓</li>
+  
+</ul>
 
-Here are some ideas to get you started:
+<div>
+<a href="https://github.com/marianaitopinto">
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianaitopinto&layout=compact&langs_count=7&theme=dracula"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api?username=marianaitopinto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3>Fale comigo! 📩 </h3>
+<a href="https://www.linkedin.com/in/mariana-ito">
+    <img alt="Abhishek's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>
