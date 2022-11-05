@@ -1,8 +1,9 @@
 ### Hi there, I'm Mariana! 👋
 
 <ul>
-  <li>Estudante Web Full Stack pela Driven Education. 🖥</li>
-  <li>Engenheira migrando para o mundo da programação. 🎓</li>
+  <li>Desenvolvedora Back End. </li>
+  <li>Formada em Desenvolvimento Web Full Stack pela Driven Education. 🖥</li>
+  <li>Engenheira que se encontrou na tecnologia. 🎓</li>
   
 </ul>
 
